@@ -84,7 +84,7 @@
 <h2 align="left">⚡ Stats</h2>
 <div align=left>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-eL&hide=java&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5" alt="top langs" />
-
+<br/>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=K-eL&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
