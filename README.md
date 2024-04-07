@@ -1,12 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=k-eL.k-eL" />
-<br/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=3366ff&duration=4000&lines=Hello,+I'm+Claudio!+👋;Welcome!+☕" />
-</h1>
-<br/>
-<h3 align="center">☕ A passionate, generalist, problem solver! ☕
-</h3>
-<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=👨🏻‍💻 Hi, I'm Claudio!+👋🏻&desc=🔸 A passionate, generalist, problem solver! 🔸&fontAlign=50&fontSize=69&descSize=24&fontAlignY=30&fontColor=c2cfda&descAlignY=52&stroke=33c&animation=fadeIn&type=waving&color=0:1a1b67,50:3333ff,100:024Edf&height=250"/>
+</p>
+
 <div align="center">
 
  🔭 I’m currently looking for **new oportunities in Germany 🇩🇪 or Remote 🌍**
@@ -29,17 +25,18 @@
 <br/>
 </div>
 
-<h2 align="left">💻 Programming Languages</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=k-eL.k-eL" style="margin-top: 0px;"/>
+<h2 align="left">🖥️ Programming Languages</h2>
 <div align="left">
 	<img src="https://skillicons.dev/icons?i=javascript,typescript,cs,python,go" />
 </div>
 
-<h2 align="left">🎨 Front-End</h2>
+<h2 align="left">📊 Front-End</h2>
 <div>
 	<img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,next,vite,bootstrap,tailwind,materialui,html,css,sass,threejs&perline=7" />
 </div>
 
-<h2 align="left">🚀 Back-End</h2>
+<h2 align="left">📡 Back-End</h2>
 <div align="left">
 	<img src="https://skillicons.dev/icons?i=nodejs,express,nest,dotnet,fastapi,rxjs,graphql,apollo,prisma,sequelize,firebase,supabase,postman&perline=7" />
 </div>
@@ -76,24 +73,28 @@
 
 <div align="left">
   <h2>🐍 My Contributions</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/K-eL/K-eL/output/github-contribution-grid-snake.svg" />
-  
+	<div align="center">
+		<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/K-eL/K-eL/output/github-contribution-grid-snake.svg" />
+	</div>
   <br/>
 </div>
 
 <h2 align="left">⚡ Stats</h2>
-<div align=left>
+<div align=center style="padding: 10px;">
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-eL&hide=java&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.8&count_weight=0.5" alt="top langs" />
 <br/>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=K-eL&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=K-eL&count_private=true&theme=react&border_radius=10" alt="streak stats" style="margin-top: 20px;"/>
 </div>
 
 <br/>
 <hr/>
 <br/>
 
-<div align="left">
+<div align="center">
 	<a href="https://www.buymeacoffee.com/c.thor" target="_blank">
 		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 	</a>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=I hope you have enjoyed!+😊&fontColor=c2cfda&textBg=38bdae&fontAlignY=75&stroke=33c&animation=fadeIn&type=waving&color=0:1a1b67,50:3333ff,100:024Edf&height=180&section=footer&fontSize=45"/>
+</p>
