@@ -96,5 +96,5 @@
 	</a>
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=I+hope+you+have enjoyed!+😊&fontColor=c2cfda&textBg=38bdae&fontAlignY=75&stroke=33c&animation=fadeIn&type=waving&color=0:1a1b67,50:3333ff,100:024Edf&height=180&section=footer&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?text=I+hope+you+have+enjoyed!+😊&fontColor=c2cfda&textBg=38bdae&fontAlignY=75&stroke=33c&animation=fadeIn&type=waving&color=0:1a1b67,50:3333ff,100:024Edf&height=180&section=footer&fontSize=45"/>
 </p>
