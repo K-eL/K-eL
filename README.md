@@ -5,8 +5,6 @@
 
 <div align="center">
 
- 🔭 I’m currently looking for **new oportunities in Germany 🇩🇪 or Remote 🌍**
-
 📚 I’m currently improving my knowledge in **DevOps, Software Architecture, and German**
 
 💬 Ask me about **anything** or let's just **connect**
